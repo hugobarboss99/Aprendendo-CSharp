@@ -1,0 +1,15 @@
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\bin\Debug\net6.0\Joguinho.exe
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\bin\Debug\net6.0\Joguinho.deps.json
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\bin\Debug\net6.0\Joguinho.runtimeconfig.json
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\bin\Debug\net6.0\Joguinho.dll
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\bin\Debug\net6.0\Joguinho.pdb
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.csproj.AssemblyReference.cache
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.AssemblyInfo.cs
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.dll
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\refint\Joguinho.dll
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.pdb
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\Joguinho.genruntimeconfig.cache
+D:\Cursos\Curso C#\TentativaDeJogo\Joguinho\Joguinho\obj\Debug\net6.0\ref\Joguinho.dll

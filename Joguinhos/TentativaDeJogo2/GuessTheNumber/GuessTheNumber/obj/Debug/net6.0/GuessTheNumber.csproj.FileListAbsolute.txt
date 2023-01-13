@@ -1,0 +1,15 @@
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.exe
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.deps.json
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.runtimeconfig.json
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.dll
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\bin\Debug\net6.0\GuessTheNumber.pdb
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.AssemblyReference.cache
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.AssemblyInfo.cs
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.dll
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\refint\GuessTheNumber.dll
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.pdb
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\GuessTheNumber.genruntimeconfig.cache
+D:\Cursos\Curso C#\TentativaDeJogo2\GuessTheNumber\GuessTheNumber\obj\Debug\net6.0\ref\GuessTheNumber.dll
