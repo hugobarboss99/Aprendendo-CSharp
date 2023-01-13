@@ -1,0 +1,15 @@
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.exe
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.deps.json
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.runtimeconfig.json
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.dll
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\bin\Debug\net6.0\Exercicio1.pdb
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.csproj.AssemblyReference.cache
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.AssemblyInfo.cs
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.dll
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\refint\Exercicio1.dll
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.pdb
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\Exercicio1.genruntimeconfig.cache
+D:\Cursos\Curso C#\Seção 3\Exer1\Exercicio1\Exercicio1\obj\Debug\net6.0\ref\Exercicio1.dll
