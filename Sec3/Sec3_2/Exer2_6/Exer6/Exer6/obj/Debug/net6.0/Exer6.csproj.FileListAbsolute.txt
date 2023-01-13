@@ -1,0 +1,15 @@
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\bin\Debug\net6.0\Exer6.exe
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\bin\Debug\net6.0\Exer6.deps.json
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\bin\Debug\net6.0\Exer6.runtimeconfig.json
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\bin\Debug\net6.0\Exer6.dll
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\bin\Debug\net6.0\Exer6.pdb
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.csproj.AssemblyReference.cache
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.AssemblyInfo.cs
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.dll
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\refint\Exer6.dll
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.pdb
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\Exer6.genruntimeconfig.cache
+D:\Cursos\Curso C#\Seção 3\Exer2\Exer6\Exer6\Exer6\obj\Debug\net6.0\ref\Exer6.dll
