@@ -1,0 +1,15 @@
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\bin\Debug\net6.0\Exer4_7.exe
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\bin\Debug\net6.0\Exer4_7.deps.json
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\bin\Debug\net6.0\Exer4_7.runtimeconfig.json
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\bin\Debug\net6.0\Exer4_7.dll
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\bin\Debug\net6.0\Exer4_7.pdb
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.csproj.AssemblyReference.cache
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.AssemblyInfoInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.AssemblyInfo.cs
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.csproj.CoreCompileInputs.cache
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.dll
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\refint\Exer4_7.dll
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.pdb
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\Exer4_7.genruntimeconfig.cache
+D:\Cursos\Curso C#\Seção 3\Exer4\Exer4_7\Exer4_7\obj\Debug\net6.0\ref\Exer4_7.dll
